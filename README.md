@@ -7,7 +7,7 @@ Kryvex 是一个使用 Rust 开发的 Lua 虚拟化混淆器，专注于 Lua 字
 ---
 ## This project Kryvex Lua Obfuscator is a Lua code obfuscation tool designed for software development and code protection.
 ## It has absolutely no relation to any investment, financial, trading platforms, signal trading, or cryptocurrency schemes.
-## Any use of the name “Kryvex” to solicit investments, offer trading signals, or promise high returns is a scam. Please report to the authorities immediately (TTaiwan Province, China: 165 Anti-Fraud Hotline).
+## Any use of the name “Kryvex” to solicit investments, offer trading signals, or promise high returns is a scam. Please report to the authorities immediately (Taiwan, China: 165 Anti-Fraud Hotline).
 ---
 
 ## Supported Platforms
